@@ -1,1 +1,3 @@
 This is day a day when i create my first commit in feature branch
+
+Here is text what makes secong commit in feature!
